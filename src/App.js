@@ -26,9 +26,8 @@ export default class App extends React.Component {
             <h1>A New Hope</h1>
           </div>
 
+          <p>STAR WARS EPISODE IV A NEW HOPE</p>
           <p>
-            STAR WARS EPISODE IV A NEW HOPE</p>
-            <p>
             Written by George Lucas From a story by George Lucas Revised Fourth
             Draft January 15, 1976 A long time ago, in a galaxy far, far,
             away... A vast sea of stars serves as the backdrop for the main
