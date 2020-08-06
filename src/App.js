@@ -8,14 +8,14 @@ export default class App extends React.Component {
         <ReactPlayer
           className="video"
           style={{ display: "none" }}
-          playing="true"
+          playing={true}
           url="https://www.youtube.com/watch?v=_D0ZQPqeJkk"
         />
 
         <ReactPlayer
           className="gunga_ginga"
           style={{ display: "none" }}
-          playing="true"
+          playing={true}
           url="https://www.youtube.com/watch?v=wL8yvZDF6RA&t=32s"
         />
 

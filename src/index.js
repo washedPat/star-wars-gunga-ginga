@@ -6,7 +6,7 @@ import App from "./App";
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
-    <div class="fade" />
+    <div className="fade" />
     <App />
   </React.StrictMode>,
   rootElement
