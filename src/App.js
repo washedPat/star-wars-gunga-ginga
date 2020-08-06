@@ -10,6 +10,7 @@ export default class App extends React.Component {
           style={{ display: "none" }}
           playing={true}
           url="https://www.youtube.com/watch?v=_D0ZQPqeJkk"
+          loop={true}
         />
 
         <ReactPlayer
@@ -17,6 +18,7 @@ export default class App extends React.Component {
           style={{ display: "none" }}
           playing={true}
           url="https://www.youtube.com/watch?v=wL8yvZDF6RA&t=32s"
+          loop={true}
         />
 
         {/* crawl shit */}
